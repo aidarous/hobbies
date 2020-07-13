@@ -8,7 +8,7 @@ function App() {
       <Card 
       hobby = "Programming"
       img = "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
-      details = "Giving computers instructions about what they should do next"
+      details = "Using the power of programming to solve problems"
       
       />
       <Card 
